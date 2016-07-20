@@ -1,0 +1,13 @@
+h1, h5 {
+    text-align: center;
+}
+.cantSeeMe {
+	display: none !important;
+}
+
+li:nth-child(even) {
+	color:gray;
+}
+li:nth-child(even):hover {
+	color:black;
+}
